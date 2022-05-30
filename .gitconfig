@@ -1,0 +1,12 @@
+[user]
+        name = Seth Sweep
+        email = seth.sweep@gmail.com
+[core]
+        autocrlf = input
+        pager = more -R
+[push]
+        default = current
+[pull]
+        rebase = true
+[init]
+        defaultBranch = main
