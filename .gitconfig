@@ -3,7 +3,7 @@
         email = seth.sweep@gmail.com
 [core]
         autocrlf = input
-        pager = more -R
+        pager = more 
 [push]
         default = current
 [pull]
